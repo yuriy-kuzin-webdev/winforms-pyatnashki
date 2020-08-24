@@ -1,0 +1,19 @@
+C:\C#\WinForms\2020.02.18 CustomControls\PyatnashkiApp\PyatnashkiApp\bin\Debug\PyatnashkiApp.exe.config
+C:\C#\WinForms\2020.02.18 CustomControls\PyatnashkiApp\PyatnashkiApp\bin\Debug\PyatnashkiApp.exe
+C:\C#\WinForms\2020.02.18 CustomControls\PyatnashkiApp\PyatnashkiApp\bin\Debug\PyatnashkiApp.pdb
+C:\C#\WinForms\2020.02.18 CustomControls\PyatnashkiApp\PyatnashkiApp\obj\Debug\PyatnashkiApp.Properties.Resources.resources
+C:\C#\WinForms\2020.02.18 CustomControls\PyatnashkiApp\PyatnashkiApp\obj\Debug\PyatnashkiApp.csproj.GenerateResource.cache
+C:\C#\WinForms\2020.02.18 CustomControls\PyatnashkiApp\PyatnashkiApp\obj\Debug\PyatnashkiApp.exe
+C:\C#\WinForms\2020.02.18 CustomControls\PyatnashkiApp\PyatnashkiApp\obj\Debug\PyatnashkiApp.pdb
+C:\C#\WinForms\2020.02.18 CustomControls\PyatnashkiApp\PyatnashkiApp\obj\Debug\PyatnashkiApp.csprojAssemblyReference.cache
+C:\C#\WinForms\2020.02.18 CustomControls\PyatnashkiApp\PyatnashkiApp\obj\Debug\PyatnashkiApp.MainForm.resources
+C:\Users\Administrator\Downloads\PyatnashkiApp_1582138185\PyatnashkiApp\PyatnashkiApp\bin\Debug\PyatnashkiApp.exe.config
+C:\Users\Administrator\Downloads\PyatnashkiApp_1582138185\PyatnashkiApp\PyatnashkiApp\bin\Debug\PyatnashkiApp.exe
+C:\Users\Administrator\Downloads\PyatnashkiApp_1582138185\PyatnashkiApp\PyatnashkiApp\bin\Debug\PyatnashkiApp.pdb
+C:\Users\Administrator\Downloads\PyatnashkiApp_1582138185\PyatnashkiApp\PyatnashkiApp\obj\Debug\PyatnashkiApp.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\PyatnashkiApp_1582138185\PyatnashkiApp\PyatnashkiApp\obj\Debug\PyatnashkiApp.MainForm.resources
+C:\Users\Administrator\Downloads\PyatnashkiApp_1582138185\PyatnashkiApp\PyatnashkiApp\obj\Debug\PyatnashkiApp.Properties.Resources.resources
+C:\Users\Administrator\Downloads\PyatnashkiApp_1582138185\PyatnashkiApp\PyatnashkiApp\obj\Debug\PyatnashkiApp.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\PyatnashkiApp_1582138185\PyatnashkiApp\PyatnashkiApp\obj\Debug\PyatnashkiApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\PyatnashkiApp_1582138185\PyatnashkiApp\PyatnashkiApp\obj\Debug\PyatnashkiApp.exe
+C:\Users\Administrator\Downloads\PyatnashkiApp_1582138185\PyatnashkiApp\PyatnashkiApp\obj\Debug\PyatnashkiApp.pdb
